@@ -1,0 +1,9 @@
+body {
+    background-image: url("/images/mountains-universe-1.png");
+
+}
+
+.wrapper-home {
+    animation: topdown 700ms 350ms backwards;
+}
+
