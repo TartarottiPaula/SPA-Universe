@@ -14,11 +14,7 @@ Este é o primeiro projeto de SPA (Single Page Application) proposto no Stage 6 
 
 ## ⌨️ Tecnologias
 
-- HTML
-- CSS
-- Javascript
-- NodeJs
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&perline=)](https://skillicons.dev)
 
 ## Conceitos Aplicados no Projeto:
 
